@@ -54,7 +54,7 @@ A página de votação exibirá as informações de qual região está sendo mai
   
   Por exemplo:
     
-  `git clone [https://github.com/RaulFerreiraSilva/MelhorRegiao.git](https://github.com/RaulFerreiraSilva/MelhorRegiao).git`
+  `git clone https://github.com/RaulFerreiraSilva/MelhorRegiao.git`
     
   Navegue até o Diretório do Projeto: Use o comando cd para navegar até o diretório do projeto que você acabou de clonar:
   
