@@ -14,6 +14,10 @@ Assim, para a tela inicial, o home terá imagens das regiões de fundo, cards da
 
 A página  de formulário terá um formulário com os campos de nome, email, idade e sua região, ele deverá ser preeenchido toda vez que alguém apertar o botão de votar seja na tela da região escolhida ou na própria tela do formulário. O formulário deverá validar todos os campos. O email, sua região e nome deverão ser obrigatórios. Assim que os dados pessoais forem preenchidos , haverão checkboxs mostrando os criterios de clima, pontos turísticos, cultura e comida, o usuário deve escolher pelo menos um para enviar o formulário. Após o voto ser realizado um email de verificação chegará no email cadastrado notificando o voto.
 
+A página de sobre terá informações sobre o projeto , explicando o sentido por trás, as ideias, os participantes e  informações de contato.
+
+A página de votação exibirá as informações de qual região está sendo mais votada e quantos votos tem e também um sessão de feedback :)
+
 ## :hammer: Como projeto está composto
 
 - `Tela Principal`:
